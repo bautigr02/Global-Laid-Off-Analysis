@@ -31,7 +31,7 @@ Include:
   
 ## 📁 Dataset
 - Fuente: [Link al dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) 
-- Archivos: `layoffs_staging2.csv`
+- Archivos: [layoffs_staging2.csv](https://github.com/user-attachments/files/20780452/layoffs_staging2.csv)
 
 ## ⚙️ Tools
 - SQL
